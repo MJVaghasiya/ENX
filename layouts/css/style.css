@@ -246,7 +246,7 @@
   .filter-marker li:before {
     @apply absolute top-[4px] left-0 1xl:size-5 size-4.5 bg-contain bg-no-repeat bg-right;
     content: '';
-    background-image: url('../image/round.svg');
+    background-image: url('../layouts/image/round.svg');
   }
   .services-list.filter-marker li:before {
     @apply top-px;

@@ -1565,35 +1565,35 @@
   .bg-\[linear-gradient\(170deg\,\#F7F8FD_53\%\,rgba\(245\,245\,245\,0\.48\)_70\.2\%\)\] {
     background-image: linear-gradient(170deg,#F7F8FD 53%,rgba(245,245,245,0.48) 70.2%);
   }
-  .bg-\[url\(\'\.\.\/image\/about-us-banner\.webp\'\)\] {
-    background-image: url('../image/about-us-banner.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/about-us-banner\.webp\'\)\] {
+    background-image: url('../layouts/image/about-us-banner.webp');
   }
-  .bg-\[url\(\'\.\.\/image\/about-us-bg\.svg\'\)\] {
-    background-image: url('../image/about-us-bg.svg');
+  .bg-\[url\(\'\.\.\/layouts\/image\/about-us-bg\.svg\'\)\] {
+    background-image: url('../layouts/image/about-us-bg.svg');
   }
-  .bg-\[url\(\'\.\.\/image\/career-banner\.webp\'\)\] {
-    background-image: url('../image/career-banner.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/career-banner\.webp\'\)\] {
+    background-image: url('../layouts/image/career-banner.webp');
   }
-  .bg-\[url\(\'\.\.\/image\/contact-us-banner\.webp\'\)\] {
-    background-image: url('../image/contact-us-banner.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/contact-us-banner\.webp\'\)\] {
+    background-image: url('../layouts/image/contact-us-banner.webp');
   }
-  .bg-\[url\(\'\.\.\/image\/cyber-security\.webp\'\)\] {
-    background-image: url('../image/cyber-security.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/cyber-security\.webp\'\)\] {
+    background-image: url('../layouts/image/cyber-security.webp');
   }
-  .bg-\[url\(\'\.\.\/image\/hero-banner\.webp\'\)\] {
-    background-image: url('../image/hero-banner.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/hero-banner\.webp\'\)\] {
+    background-image: url('../layouts/image/hero-banner.webp');
   }
-  .bg-\[url\(\'\.\.\/image\/support-banner\.webp\'\)\] {
-    background-image: url('../image/support-banner.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/support-banner\.webp\'\)\] {
+    background-image: url('../layouts/image/support-banner.webp');
   }
-  .bg-\[url\(\'\.\.\/image\/testimonial-banner\.webp\'\)\] {
-    background-image: url('../image/testimonial-banner.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/testimonial-banner\.webp\'\)\] {
+    background-image: url('../layouts/image/testimonial-banner.webp');
   }
-  .bg-\[url\(\'\.\.\/image\/vector\.png\'\)\] {
-    background-image: url('../image/vector.png');
+  .bg-\[url\(\'\.\.\/layouts\/image\/vector\.png\'\)\] {
+    background-image: url('../layouts/image/vector.png');
   }
-  .bg-\[url\(\'\.\.\/image\/why-enx-banner\.webp\'\)\] {
-    background-image: url('../image/why-enx-banner.webp');
+  .bg-\[url\(\'\.\.\/layouts\/image\/why-enx-banner\.webp\'\)\] {
+    background-image: url('../layouts/image/why-enx-banner.webp');
   }
   .from-\[\#020c36d1\] {
     --tw-gradient-from: #020c36d1;
@@ -11913,7 +11913,7 @@
       height: calc(var(--spacing) * 5);
     }
     content: '';
-    background-image: url('../image/round.svg');
+    background-image: url('../layouts/image/round.svg');
   }
   .services-list.filter-marker li:before {
     top: 1px;

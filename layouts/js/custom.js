@@ -580,13 +580,13 @@ const INACTIVE_CLASSES = ["!text-white/60", "border-transparent", "!pl-0"];
 
 // Mapping tab key to image
 const TAB_IMAGES = {
-  data: "../image/data-management.webp",
-  networking: "../image/networking.webp",
-  software: "../image/Software-development.webp",
-  cloud: "../image/Cloud-computing.webp",
-  mobile: "../image/Mobile-technology.webp",
-  bi: "../image/Business-intelligence.webp",
-  cybersecurity: "../image/Cybersecurity.webp",
+  data: "../layouts/image/data-management.webp",
+  networking: "../layouts/image/networking.webp",
+  software: "../layouts/image/Software-development.webp",
+  cloud: "../layouts/image/Cloud-computing.webp",
+  mobile: "../layouts/image/Mobile-technology.webp",
+  bi: "../layouts/image/Business-intelligence.webp",
+  cybersecurity: "../layouts/image/Cybersecurity.webp",
 };
 
 // Set image on load
@@ -634,18 +634,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const imageMap = {
     cyber: {
-      network: "../image/construction-sevices-1.webp",
-      information: "../image/construction-sevices-2.webp",
-      endpoint: "../image/construction-sevices-3.webp",
-      incident: "../image/construction-sevices-4.webp",
+      network: "../layouts/image/construction-sevices-1.webp",
+      information: "../layouts/image/construction-sevices-2.webp",
+      endpoint: "../layouts/image/construction-sevices-3.webp",
+      incident: "../layouts/image/construction-sevices-4.webp",
     },
     care: {
-      development: "../image/healthcare-service-1.webp",
-      management: "../image/healthcare-service-2.webp",
-      telemedicin: "../image/healthcare-service-3.webp",
-      analytics: "../image/healthcare-service-4.webp",
-      software: "../image/healthcare-service-5.webp",
-      automation: "../image/healthcare-service-6.webp",
+      development: "../layouts/image/healthcare-service-1.webp",
+      management: "../layouts/image/healthcare-service-2.webp",
+      telemedicin: "../layouts/image/healthcare-service-3.webp",
+      analytics: "../layouts/image/healthcare-service-4.webp",
+      software: "../layouts/image/healthcare-service-5.webp",
+      automation: "../layouts/image/healthcare-service-6.webp",
     },
   };
 
