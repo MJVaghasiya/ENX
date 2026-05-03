@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "npx @tailwindcss/cli -i ./layouts/css/style.css -o ../css/output.css --watch",
-    "build": "npx tailwindcss -i ./layouts/css/style.css -o ../css/output.css"
+    "dev": "npx @tailwindcss/cli -i ./layouts/css/style.css -o ./layouts/css/output.css --watch",
+    "build": "npx tailwindcss -i ./layouts/css/style.css -o ./layouts/css/output.css"
   },
   "keywords": [],
   "author": "",
